@@ -1,0 +1,8 @@
+  .logo-icon img{
+  width: 1000px;
+  height: 1000px;
+  object-fit: contain;
+  #tecnologia {
+    background: var(--dark);
+    position: relative; overflow: hidden;}
+  }
